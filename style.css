@@ -1,0 +1,102 @@
+#content {
+  margin: 10px 0;
+}
+
+#header {
+  font-size: 36px;
+  color: #333;
+  padding-top: 100px;
+  text-align: center;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: "Poppins", Arial, sans-serif;
+  text-align: center;
+}
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f2f2f2;
+}
+
+li.navitem {
+  float: right;
+}
+
+li.navitem a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li.navitem a:hover {
+  background-color: #ddd;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+hr {
+  border: dotted #6e6e6e 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.skills {
+  font-size: xx-large;
+}
+
+.coding {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.in-touch {
+  font-size: xx-large;
+}
+
+.hiring {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  border: none;
+}
+
+.bottom-container {
+  background-color: #5f5f5f;
+  padding: 20px 0 20px;
+  margin-top: 30px;
+}
+
+.footer-link {
+  color: #f2f2f2;
+  padding: 13px;
+}
+
+.copyright {
+  color: #f2f2f2;
+}
